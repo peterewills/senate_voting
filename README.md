@@ -1,6 +1,6 @@
 # Senate Voting Graphs
 
-This is just a reworking of [previous code]() by [Renzo Lucioni](). Bug fixes have been made, a script for parallel generation of data from each congress 101 through 114 is included, and **Python 3.x is now required.**
+This is just a reworking of [previous code](https://gist.github.com/rlucioni/8bdb1092579041ce739c) by [Renzo Lucioni](https://renzo.lucioni.xyz/). Bug fixes have been made, a script for parallel generation of data from each congress 101 through 114 is included, and **Python 3.x is now required.**
 
 A graphs is generated that encodes the pairwise voting affiliations of senators in a given congress. The function `write_graphs(congress)` saves this graph as a `.gexf` file. 
 
